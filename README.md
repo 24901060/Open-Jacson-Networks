@@ -64,7 +64,6 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
 ```
-
 ## Output
 ![image](https://github.com/gauthamkrishna7/Open-Jacson-Networks/assets/141175025/940c5255-8d3d-4bb5-86a8-4aa8408e830a)
 
